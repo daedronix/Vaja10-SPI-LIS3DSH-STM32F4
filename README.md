@@ -9,3 +9,5 @@
   <p> SDI - Slave data in </p>
   <p>  SDO - slave data out </p>
 <p>    CS - Chip select </p>
+<h4> V zavihku Pinout izberite SPI1 in izberite Full-Duplex Master. Kateri pini se obarvajo zeleno? </h4>
+  <p> PA5, PA6 in PA7. </p>
